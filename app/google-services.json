@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "1060025546458",
+    "project_number": "",
     "project_id": "eventos-udb",
-    "storage_bucket": "eventos-udb.firebasestorage.app"
+    "storage_bucket": ""
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1060025546458:android:6f0a98e5d6a12bf2cf57e3",
+        "mobilesdk_app_id": "",
         "android_client_info": {
           "package_name": "com.udb.eventoscomunitarios"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1060025546458-rtk1cao7auvfp7as5sa6h8ot6185kg6t.apps.googleusercontent.com",
+          "client_id": "",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBAKYdf1uaRvCXK4cAAA9IEBMXUk96JOZE"
+          "current_key": ""
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1060025546458-rtk1cao7auvfp7as5sa6h8ot6185kg6t.apps.googleusercontent.com",
+              "client_id": "",
               "client_type": 3
             }
           ]
