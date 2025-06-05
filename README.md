@@ -52,5 +52,4 @@ La licenciante no puede revocar estas libertades en tanto usted siga los términ
 * [Tablero en Trello] https://trello.com/invite/b/68354222e5a45aa70da0abb3/ATTI6640eb4de243d9e6abb4f2f8a585fdc23E1604F7/aplicacion-de-gestion-de-eventos-comunitarios
 * [Manual de usuario en la nube] -
 * [Manual Técnico en la nube] - 
-* [Video de funcionamiento] - 
 * [Enlace a Mockups] - https://www.figma.com/design/3zfVUXAdx8g8ItV7CzyjeF/DSM---Proyecto-Fase-II?m=auto&t=phruBozL3R9yYV6I-6
